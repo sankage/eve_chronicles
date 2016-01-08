@@ -14,6 +14,7 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 [![The Book Of Emptiness 2 of 2](thumbnails/TheBookOfEmptiness2of2_thumb.jpg)](chronicles/212.the-book-of-emptiness-part-two.md)
 [![Uplifted](thumbnails/Uplifted_thumb.jpg)](chronicles/211.uplifted.md)
 [![The Book Of Emptiness 1 of 2](thumbnails/TheBookOfEmptiness1of2_thumb.jpg)](chronicles/210.the-book-of-emptiness-part-one.md)
+[![The Plague Years](thumbnails/ThePlagueYears_thumb.jpg)](chronicles/209.the-plague-years.md)
 [![Mind Clash](thumbnails/Mind_Clash.jpg)](chronicles/002.mind-clash.md)
 [![Fedo](thumbnails/Fedo.jpg)](chronicles/001.fedo.md)
 
