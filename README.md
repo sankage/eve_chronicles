@@ -6,15 +6,15 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 
 ## Chronicles
 
-* [![Inheritance](thumbnails/Inheritance_card.jpg)](217.inheritance.md)
-* [![Testament](thumbnails/Testament_thumb.jpg)](216.testament.md)
-* [![Breathing Space](thumbnails/BreathingSpace_thumb.jpg)](215.breathing-space.md)
-* [![Particle Tracks](thumbnails/ParticleTracks_thumb.jpg)](214.particle-tracks.md)
-* [![Welcome Party](thumbnails/WelcomeParty_thumb.jpg)](213.welcome-party.md)
-* [![The Book Of Emptiness 2 of 2](thumbnails/TheBookOfEmptiness2of2_thumb.jpg)](212.the-book-of-emptiness-part-two.md)
-* [![Uplifted](thumbnails/Uplifted_thumb.jpg)](211.uplifted.md)
-* [![The Book Of Emptiness 1 of 2](thumbnails/TheBookOfEmptiness1of2_thumb.jpg)](210.the-book-of-emptiness-part-one.md)
-* [![Fedo](thumbnails/Fedo.jpg)](001.fedo.md)
+[![Inheritance](thumbnails/Inheritance_card.jpg)](217.inheritance.md)
+[![Testament](thumbnails/Testament_thumb.jpg)](216.testament.md)
+[![Breathing Space](thumbnails/BreathingSpace_thumb.jpg)](215.breathing-space.md)
+[![Particle Tracks](thumbnails/ParticleTracks_thumb.jpg)](214.particle-tracks.md)
+[![Welcome Party](thumbnails/WelcomeParty_thumb.jpg)](213.welcome-party.md)
+[![The Book Of Emptiness 2 of 2](thumbnails/TheBookOfEmptiness2of2_thumb.jpg)](212.the-book-of-emptiness-part-two.md)
+[![Uplifted](thumbnails/Uplifted_thumb.jpg)](211.uplifted.md)
+[![The Book Of Emptiness 1 of 2](thumbnails/TheBookOfEmptiness1of2_thumb.jpg)](210.the-book-of-emptiness-part-one.md)
+[![Fedo](thumbnails/Fedo.jpg)](001.fedo.md)
 
 ## Conversion
 
