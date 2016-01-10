@@ -15,6 +15,7 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 [![Uplifted](thumbnails/Uplifted_thumb.jpg)](chronicles/211.uplifted.md)
 [![The Book Of Emptiness 1 of 2](thumbnails/TheBookOfEmptiness1of2_thumb.jpg)](chronicles/210.the-book-of-emptiness-part-one.md)
 [![The Plague Years](thumbnails/ThePlagueYears_thumb.jpg)](chronicles/209.the-plague-years.md)
+[![King Slaver](thumbnails/KingSlaver_thumb.jpg)](chronicles/208.king-slaver.md)
 [![Society of Conscious Thought](thumbnails/Society_of_Conscious_Thought.jpg)](chronicles/004.society-of-conscious-thought.md)
 [![Dam Torsad](thumbnails/Dam-Torsad.jpg)](chronicles/003.dam-torsad.md)
 [![Mind Clash](thumbnails/Mind_Clash.jpg)](chronicles/002.mind-clash.md)
