@@ -17,6 +17,7 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 [![The Plague Years](thumbnails/ThePlagueYears_thumb.jpg)](chronicles/209.the-plague-years.md)
 [![King Slaver](thumbnails/KingSlaver_thumb.jpg)](chronicles/208.king-slaver.md)
 [![The Desert Fathers](thumbnails/TheDesertFathers_thumb.jpg)](chronicles/207.the-desert-fathers.md)
+[![Hona is Three](thumbnails/HonaIsThree_thumb.jpg)](chronicles/206.hona-is-three.md)
 [![Society of Conscious Thought](thumbnails/Society_of_Conscious_Thought.jpg)](chronicles/004.society-of-conscious-thought.md)
 [![Dam Torsad](thumbnails/Dam-Torsad.jpg)](chronicles/003.dam-torsad.md)
 [![Mind Clash](thumbnails/Mind_Clash.jpg)](chronicles/002.mind-clash.md)
