@@ -46,3 +46,15 @@ This will make sure the file is UTF-8 and convert html entities into plain text:
 %s/\(&lsquo;\|&rsquo;\)/'/ge | %s/&hellip;/…/ge | %s/ &nbsp;/ /ge |
 %s/\.\.\./…/ge | %s/<p align="center">\n\t\*\*\*<\/p>/\* \* \*\r/ge
 ```
+
+```vim
+:%s/\n\t/\r/ge | %s/<p>\(\_.\{-}\)<\/p>/\1\r/ge | %s/&nbsp;/ /ge |
+%s/<i>\(\_.\{-}\)<\/i>/_\1_/ge | %s/<em>\(\_.\{-}\)<\/em>/_\1_/ge |
+%s/\n\n\n/\r/ge
+```
+
+```vim
+:%s/\n\s\{-}<h1 class="content-title">\(\_.\{-}\)<\/h1>/# \1\r/ge | %s/\s\{-}<p
+class="center"><img src="\_.*\/\(\_.\{-}\)"
+alt="\(\_.\{-}\)"><\/p>/![\2](..\/images\/\1)/ge
+```
