@@ -21,6 +21,8 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 [![Rust Creeps](thumbnails/RustCreeps_thumb.jpg)](chronicles/205.rust-creeps.md)
 [![Tattoos](thumbnails/Tattoo_thumb.jpg)](chronicles/204.tattoos.md)
 [![Jita 4-4](thumbnails/Jita4-4_thumb.jpg)](chronicles/203.jita-4-4.md)
+[![The Hanging
+Long-Limb](thumbnails/The_hanging_long-limb.jpg)](chronicles/012.the-hanging-long-limb.md)
 [![Language
 Translators](thumbnails/Language_translators.jpg)](chronicles/011.language-translators.md)
 [![Egonics Inc.](thumbnails/Egonics_Inc.jpg)](chronicles/010.egonics-inc.md)
