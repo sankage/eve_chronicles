@@ -21,6 +21,7 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 [![Rust Creeps](thumbnails/RustCreeps_thumb.jpg)](chronicles/205.rust-creeps.md)
 [![Tattoos](thumbnails/Tattoo_thumb.jpg)](chronicles/204.tattoos.md)
 [![Jita 4-4](thumbnails/Jita4-4_thumb.jpg)](chronicles/203.jita-4-4.md)
+[![War Tattoos](thumbnails/War_tattoos.jpg)](chronicles/008.war-tattoos.md)
 [![Fatal and The
 Rabbit](thumbnails/fatal_and_the_rabbit.jpg)](chronicles/007.fatal-and-the-rabbit.md)
 [![Quafe](thumbnails/quafe.jpg)](chronicles/006.quafe.md)
