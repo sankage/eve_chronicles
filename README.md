@@ -6,6 +6,7 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 
 ## Chronicles
 
+[![Sunset](thumbnails/sunset_card.jpg)](chronicles/218.sunset.md)
 [![Inheritance](thumbnails/Inheritance_card.jpg)](chronicles/217.inheritance.md)
 [![Testament](thumbnails/Testament_thumb.jpg)](chronicles/216.testament.md)
 [![Breathing Space](thumbnails/BreathingSpace_thumb.jpg)](chronicles/215.breathing-space.md)
