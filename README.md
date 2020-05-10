@@ -6,6 +6,7 @@ An archive of the [EVE Online chronicles][1] in markdown format.
 
 ## Chronicles
 
+[![Sine Wave: Alpha](thumbnails/sinewave_a_170_pd_ver.png)](chronicles/219.sine-wave-alpha.md)
 [![Sunset](thumbnails/sunset_card.jpg)](chronicles/218.sunset.md)
 [![Inheritance](thumbnails/Inheritance_card.jpg)](chronicles/217.inheritance.md)
 [![Testament](thumbnails/Testament_thumb.jpg)](chronicles/216.testament.md)
