@@ -1,11 +1,14 @@
 # EVE Chronicles
 
-An archive of the [EVE Online chronicles][1] in markdown format.
+An archive of the [EVE Online][1] [chronicles][2] in markdown format.
 
 [1]: http://community.eveonline.com/backstory/chronicles
+[2]: https://fiction.eveonline.com/stories/chronicles
 
 ## Chronicles
 
+[Mithra's Gate](chronicles/221.mithras-gate.md)
+[Sine Wave: Omega](chronicles/220.sine-wave-omega.md)
 [![Sine Wave: Alpha](thumbnails/sinewave_a_170_pd_ver.png)](chronicles/219.sine-wave-alpha.md)
 [![Sunset](thumbnails/sunset_card.jpg)](chronicles/218.sunset.md)
 [![Inheritance](thumbnails/Inheritance_card.jpg)](chronicles/217.inheritance.md)
